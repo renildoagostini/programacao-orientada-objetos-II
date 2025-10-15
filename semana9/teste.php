@@ -3,7 +3,7 @@
 spl_autoload_register(function ($class_name){
     include $class_name . '.php';
 });
-
+ 
 //constrói a página
 $pagina = new Pagina('Teste de Pagina');
 
