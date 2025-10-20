@@ -6,7 +6,7 @@ class Conexao {
     private static $host = 'localhost';
     private static $dbname = 'sem9';
     private static $usuario = 'root';
-    private static $senha = 'mypass';
+    private static $senha = 'reago';
 
     // Método privado para evitar instanciação externa
     private function __construct() {
